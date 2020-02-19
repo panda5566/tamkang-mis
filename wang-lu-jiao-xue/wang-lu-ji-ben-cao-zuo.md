@@ -4,11 +4,11 @@ description: 使用cmd指令進行
 
 # 網路基本操作
 
-#### win+r 鍵可開啟"執行"視窗，輸入cmd後開啟命令提示字元介面
+win+r 鍵可開啟"執行"視窗，輸入cmd後開啟命令提示字元介面
 
 ![](../.gitbook/assets/zhi-hang.png)
 
-#### 執行 ipconfig /all 可查看該主機連線狀況及主要網路設置
+執行 ipconfig /all 可查看該主機連線狀況及主要網路設置
 
 ```
 C:\Users\xxx>ipconfig /all
@@ -39,9 +39,9 @@ Windows IP 設定
    NetBIOS over Tcpip . . . . . . . .: 啟用
 ```
 
-#### 執行 ping 指令可察看是否可與外部網路、內部網路進行連線
+執行 ping 指令可察看是否可與外部網路、內部網路進行連線。
 
-內部網路示意圖
+\(內部網路示意圖\)
 
 ```bash
 C:\Users\xxx>ping 163.13.1.60
@@ -58,7 +58,7 @@ Ping 163.13.1.60 (使用 32 位元組的資料):
     最小值 = 0ms，最大值 = 0ms，平均 = 0ms
 ```
 
-外部網路示意圖
+\(外部網路示意圖\)
 
 ```bash
 C:\Users\xxx>ping 8.8.8.8
@@ -75,7 +75,7 @@ Ping 8.8.8.8 (使用 32 位元組的資料):
     最小值 = 2ms，最大值 = 2ms，平均 = 2ms
 ```
 
-#### 執行 tracert 指令可追蹤網路如何連接 \(適用於內部檢修\)
+執行 tracert 指令可追蹤網路如何連接 \(適用於內部檢修\)
 
 ```bash
 C:\Users\xxx>tracert 163.13.1.60

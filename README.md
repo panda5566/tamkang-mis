@@ -1,8 +1,8 @@
 ---
-description: 主要進行網路、網頁、DNS Server、Mail Server等操作介紹
+description: 主要進行網頁、Switch、DNS Server、Mail Server等操作介紹
 ---
 
-# 網路維修基本操作
+# 摘要
 
-## 系統環境
+本人於2019年底開始編制此網頁，供未來擔任淡江大學電機系網路管理之學生進行使用，提供簡單的修繕方式及設備操作介紹，若未來學弟妹有疑問，歡迎在Github底下進行提問。
 
